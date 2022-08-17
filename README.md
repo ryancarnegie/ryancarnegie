@@ -14,9 +14,9 @@ My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouve
 
 📫 How to reach me: LinkedIn!
 
-⚡ Fun fact: ...
+⚡ Fun fact: 
 
 
-
+&langs_count=option
 
 
