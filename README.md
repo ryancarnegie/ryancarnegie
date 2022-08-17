@@ -19,4 +19,4 @@ My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouve
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancarnegie)](https://github.com/ryancarnegie/github-readme-stats)
 
-
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancarnegie&theme=dark&show_icons=true)
