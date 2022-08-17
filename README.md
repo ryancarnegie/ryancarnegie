@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ryancarnegie/ryancarnegie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouver! I live in Vancouver and you can contact me via LinkedIn!
 
 🔭 I’m currently working on something cool!
 
@@ -23,5 +18,5 @@ Here are some ideas to get you started:
 
 
 
-My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouver! I live in Vancouver and you can contact me via LinkedIn!
+
 
