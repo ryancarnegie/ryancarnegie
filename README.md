@@ -17,6 +17,6 @@ My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouve
 ⚡ Fun fact: 
 
 
-&langs_count=option
+&langs_count=5
 
 
