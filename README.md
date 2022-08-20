@@ -14,7 +14,7 @@ My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouve
 
 📫 How to reach me: LinkedIn!
 
-⚡ Fun fact: very fun!
+⚡ Fun fact: this is very fun!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancarnegie)](https://github.com/ryancarnegie/github-readme-stats)
