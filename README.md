@@ -4,6 +4,8 @@ My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouve
 
 🔭 I’m currently working on something cool!
 
+🔭 I’m currently working on a flask application with sign-up, login, user item display, buy/refund orders, and signout capabilities. 
+
 🌱 I’m currently learning a lot!
 
 👯 I’m looking to collaborate on projects!
