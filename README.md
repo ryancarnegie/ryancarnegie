@@ -8,13 +8,9 @@ My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouve
 
 🔭 I'm now working on obtaining a deeper understanding of Maps such as HashMaps
 
-🌱 I’m learning a lot!
+🌱 I’m learning a lot! 👯 I’m looking to collaborate on projects! 💬 Ask me about my project!
 
-👯 I’m looking to collaborate on projects!
-
-💬 Ask me about my project!
-
-📫 How to reach me: LinkedIn!
+📫 How to reach me: LinkedIn! https://www.linkedin.com/in/ryancarnegie/
 
 ⚡ Fun fact: fun.
 
