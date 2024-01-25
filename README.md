@@ -10,7 +10,7 @@ My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouve
 
 🌱 I’m learning a lot! 👯 I’m looking to collaborate on projects! 💬 Ask me about my project!
 
-📫 How to reach me: LinkedIn! https://www.linkedin.com/in/ryancarnegie/
+📫 How to reach me: LinkedIn! 
 
 ⚡ Fun fact: fun.
 
