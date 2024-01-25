@@ -12,8 +12,6 @@ My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouve
 
 👯 I’m looking to collaborate on projects!
 
-🤔 I’m looking for help with a project!
-
 💬 Ask me about my project!
 
 📫 How to reach me: LinkedIn!
