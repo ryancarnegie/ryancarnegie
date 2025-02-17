@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouver. I live in Vancouver and you can contact me via LinkedIn.
+My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouver. I can be contacted via LinkedIn.
 
 🔭 I’m currently working on my personal portfolio website!
 
