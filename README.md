@@ -4,13 +4,13 @@ My name is Ryan and I'm a BCIT Computer Systems Technology student from Vancouve
 
 🔭 I’m currently working on my personal portfolio website!
 
-🔭 I’m currently working on a flask application with sign-up, login, user item display, buy/refund orders, and signout capabilities. 
+🔭 I’m currently working on a React and Typescript application with sign-up, login, user item display, buy/refund orders, and signout capabilities. 
 
 🔭 I'm currently redeveloping my portfolio site in JavaScript and TypeScript. 
 
-🔭 I'm now working on obtaining a deeper understanding of Maps such as HashMaps
+🔭 I'm now working on obtaining a deeper understanding of algorithms and data structures by solving Leetcode questions!
 
-🌱 I’m learning a lot! 👯 I’m looking to collaborate on projects! 💬 Ask me about my project!
+🌱 I’m learning a lot! 👯 I’m looking to collaborate on projects! 💬 Ask me about my projects!
 
 📫 How to reach me: LinkedIn! 
 
